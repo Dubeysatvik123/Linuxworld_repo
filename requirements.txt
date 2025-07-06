@@ -1,14 +1,3 @@
-pandas
-keras
-numpy
-tensorflow
-langchain
-opencv-python
-boto3
-cvzone
-openai
+gradio
 google-generativeai
-mediapipe
-urllib3
-matplotlib
-scikit-learn
+pytest
