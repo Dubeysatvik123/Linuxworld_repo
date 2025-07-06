@@ -1,0 +1,14 @@
+pandas
+keras
+numpy
+tensorflow
+langchain
+opencv-python
+boto3
+cvzone
+openai
+google-generativeai
+mediapipe
+urllib3
+matplotlib
+scikit-learn
